@@ -8,11 +8,11 @@ permalink: /projects/churn-prediction/
 
 **Problem:** Low retention of existing customers due to high mothly customer churn rate, leading to stagnant revenue generation by the company.
 
-**Solution:** Analysed how key attributes such as newslwtter subscrition, loyalty score, region, and credit tier affects the life time value of customers.
+**Solution:** Analysed how key attributes such as newsletter subscrition, loyalty score, region, and credit tier affects the life time value of customers.
 
 ## Approach
 
-1. **Data Collection:** Extracted 3 years of customer data (100K+ records)
+1. **Data Collection:** Extracted 3 years of customer data (200K+ records)
 2. **EDA:** Analyzed patterns in customer behavior, identified key features
 3. **ETL pipeline:** Ckeaned anprmalies in the data sets
 4. **Analytics:** Used SQL and data visualizations to analyse trends.
