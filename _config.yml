@@ -1,1 +1,20 @@
+# Site settings
+title: "Bilqis Oluwatoyin Abdullahi - Data Analyst"
+description: "Data Analytics portfolio showcasing analysis and machine learning projects"
+author: "Bilqis Oluwatoyin Abdullahi"
+email: "abdullahibilqis0409@gmail.com"
 
+# Theme
+theme: jekyll-theme-minimal
+
+# Social links
+github_username: https://github.com/Bilqees-Oluwatoyin-Abdullahi
+linkedin_username: https://www.linkedin.com/in/bilqis-abdullahi-b06767232/
+
+# Enable GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Analytics (optional)
+# google_analytics: G-XXXXXXXXXX
