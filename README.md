@@ -4,7 +4,7 @@ This repository contains the source code for my data analytics portfolio, hosted
 
 ## Live Site
 
-** [View Portfolio](https://bilqees-oluwatouin-abdullahi.github.io) **
+** [View Portfolio](https://bilqees-oluwatoyin-abdullahi.github.io) **
 
 ## Technologies Used
 
