@@ -16,6 +16,7 @@ I'm a data analyst passionate about transforming data into actionable insights. 
 *Delivered actionable insights that empowered the business to anticipate customer churn, refine revenue strategies, and make timely, data-driven decisions.*
 
 **Tools:** Python, SQL, Pandas, Plotly, Streamlit, Dash
+
 **Impact:** Delivered actionable insights that empowered the business to anticipate customer churn, refine revenue strategies, and make timely, data-driven decisions.
 
 [View Project →](https://github.com/Bilqees-Oluwatoyin-Abdullahi/E-commerce-end-to-end-analysis/blob/main/README.md#e-commerce-end-to-end-analysis)
