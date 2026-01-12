@@ -11,7 +11,7 @@ I'm a data analyst passionate about transforming data into actionable insights. 
 
 ## Featured Projects
 
-### [E-commerce-End-to-End-Analysis]
+### E-commerce-End-to-End-Analysis
 
 *Delivered actionable insights that empowered the business to anticipate customer churn, refine revenue strategies, and make timely, data-driven decisions.*
 
