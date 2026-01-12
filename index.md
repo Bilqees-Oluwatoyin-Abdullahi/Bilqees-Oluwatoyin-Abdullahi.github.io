@@ -32,7 +32,7 @@ I'm a data analyst passionate about transforming data into actionable insights. 
 ## Contact
 
 - 🔽 [Download CV](/images/Resume.pdf)
-- 🔗 [LinkedIn](www.linkedin.com/in/bilqis-abdullahi-b06767232)
+- 🔗 [LinkedIn](linkedin.com/in/bilqis-abdullahi-b06767232)
 - 🐙 [GitHub](https://github.com/Bilqees-Oluwatoyin-Abdullahi)
 
 
